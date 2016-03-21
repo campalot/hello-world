@@ -1,2 +1,2 @@
 # hello-world
-Initial repository test
+Hello world! Just a simple workflow test.
